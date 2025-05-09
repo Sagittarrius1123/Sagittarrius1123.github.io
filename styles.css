@@ -1,0 +1,51 @@
+body
+    {
+    font-family: Arial, sans-serif;
+    color: rgb(2, 81, 81);
+    background-color: #f0f0ff;
+    }
+h1
+  {
+    color: blue;
+    text-align: center;
+  }
+p
+  {
+    font-size: 14px;
+  }
+img
+  {
+    width: 250px;
+    border: 3px solid black;
+    border-radius: 10px;
+  }
+ul
+  {
+    margin-left: 20px;
+  }
+#title
+  {
+    color: rgb(0, 46, 139);
+    font-size: 40px
+  }
+  .highlight
+  {
+    color:rgb(0, 0, 255);
+  }
+#title:hover
+  {
+    color: orchid;
+    text-decoration: underline;
+  }
+img:hover
+{
+    opacity:0.8;
+}
+.screenshot
+{
+  width: 750px;
+}
+.subtitle
+{
+  font-size:30px;
+}
